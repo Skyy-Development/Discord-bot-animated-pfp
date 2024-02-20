@@ -10,7 +10,7 @@ A discord bot token
 .GIF file for the profile picture
 Clone the Repository:
 
-git clone 
+git clone https://github.com/Skyy-Development/Discord-bot-animated-pfp.git
 Install Dependencies:
 
 Navigate to the project directory and install the required dependencies using pip:
