@@ -1,36 +1,43 @@
-# Discord-bot-animated-pfp
+# GIF profile picture for Discord bots
 
-5 Stars ! Thanks
-Discord Bot Profile Picture Changer This Python script allows you to change a Discord bot's profile picture to a GIF using the Discord API.
+This Python script leverages the Discord API to dynamically change your Discord bot's profile picture to a GIF with minimal effort.
 
-How to Use
+**Prerequisites**
 
-What you will need :
-A discord bot token
-.GIF file for the profile picture
-Clone the Repository:
+- Python 3.x (https://www.python.org/downloads/)
+- A Discord bot token (https://discord.com/developers/applications)
+- A GIF file for the profile picture
 
+**Getting Started**
 
-git clone https://github.com/Skyy-Development/Discord-bot-animated-pfp.git
+1. **Clone the Repository:**
 
-cd discord-bot-animated-pfp
-Run the Python script main.py:
+   ```bash
+   git clone https://github.com/Skyy-Development/Discord-bot-animated-pfp.git
+   ```
 
+2. **Navigate to the Project Directory:**
 
-python main.py
+   ```bash
+   cd discord-bot-animated-pfp
+   ```
 
-You will be prompted to enter your bot token and the path to the GIF file you want to set as the profile picture.
+3. **Run the Script:**
 
-Once the script runs successfully, the bot's profile picture will be updated to the provided GIF.
+   ```bash
+   python main.py
+   ```
 
+**Interactive Setup**
 
-Requirements
+The script will prompt you to enter your Discord bot token and the path to the GIF file you want to use. Ensure the GIF file is accessible within the project directory or provide the absolute path if it's located elsewhere.
 
+Once the script executes successfully, your Discord bot's profile picture will be updated to the provided GIF. Now, your bot will stand out with a touch of animation!
 
-Python 3.x requests library
+**Contributing**
 
+We welcome contributions to this project! Feel free to submit pull requests with improvements or new features. Your collaboration is valued.
 
-Contributing Feel free to contribute to this project by submitting pull requests or suggesting improvements !
+**Disclaimer**
 
-
-Disclaimer This project is provided as is without any warranty. Use it at your own risk.
+This project is provided "as is" without any warranty. Please use it responsibly and at your own risk.
